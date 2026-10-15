@@ -1,0 +1,77 @@
+{
+  "historical_inputs": [
+    {
+      "year": 2019,
+      "kind": "jobs",
+      "path": "data/raw/2019年国考岗位表.xls"
+    },
+    {
+      "year": 2019,
+      "kind": "scores",
+      "path": "data/raw/2019国考岗位分数线.xlsx"
+    },
+    {
+      "year": 2020,
+      "kind": "jobs",
+      "path": "data/raw/2020年国考岗位表.xls"
+    },
+    {
+      "year": 2020,
+      "kind": "scores",
+      "path": "data/raw/2020国考岗位分数线.xlsx"
+    },
+    {
+      "year": 2021,
+      "kind": "jobs",
+      "path": "data/raw/2021年国考岗位表.xls"
+    },
+    {
+      "year": 2021,
+      "kind": "scores",
+      "path": "data/raw/2021国考岗位分数线.xlsx"
+    },
+    {
+      "year": 2022,
+      "kind": "jobs",
+      "path": "data/raw/2022年国考职位表.xls"
+    },
+    {
+      "year": 2022,
+      "kind": "scores",
+      "path": "data/raw/2022国考岗位分数线.xlsx"
+    },
+    {
+      "year": 2023,
+      "kind": "jobs",
+      "path": "data/raw/2023年国考岗位表.xls"
+    },
+    {
+      "year": 2023,
+      "kind": "scores",
+      "path": "data/raw/2023国考岗位分数线.xlsx"
+    },
+    {
+      "year": 2024,
+      "kind": "jobs",
+      "path": "data/raw/2024年国考岗位表.xls"
+    },
+    {
+      "year": 2024,
+      "kind": "scores",
+      "path": "data/raw/2024国考岗位分数线.xlsx"
+    },
+    {
+      "year": 2025,
+      "kind": "jobs",
+      "path": "data/raw/2025年国考岗位表.xls"
+    },
+    {
+      "year": 2025,
+      "kind": "scores",
+      "path": "data/raw/2025国考岗位分数线.xlsx"
+    }
+  ],
+  "target_2026": "data/raw/中央机关及其直属机构2026年度考试录用公务员招考简章_北体转载.xls",
+  "actual_2026": "data/raw/2026面试名单.xlsx",
+  "target_2027": "data/raw/中央机关及其直属机构2027年度考试录用公务员招考简章.xls"
+}
